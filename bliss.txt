@@ -13,6 +13,7 @@ Bliss term:
   * Segar +200
 > Sunyi
   * Fokus +1000
+  * Tenang +100
 > Gemuruh
   * Gak nyaman +2000
   * Terganggu +100
