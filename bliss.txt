@@ -8,3 +8,5 @@ Bliss term:
   * Refreshing +1000
   * Bugar +100
   * Vibe +80
+  * Segar +200
+  * Malas -100
