@@ -13,3 +13,4 @@ Bliss term:
   * Segar +200
 > Sunyi
   * Fokus +1000
+  * Tenang +100
