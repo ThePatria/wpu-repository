@@ -4,12 +4,12 @@ Bliss term:
   * Refreshing +75
   * Ilmu Ngoding +120
   * Vibe +80
+  * Malas -100
 > Pagi, jogging, jalanan sepi
   * Refreshing +1000
   * Bugar +100
   * Vibe +200
   * Malas -999
   * Segar +200
-  * Malas -100
 > Sunyi
   * Fokus +1000
